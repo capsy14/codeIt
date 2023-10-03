@@ -1,5 +1,6 @@
 # Snake Water Gun Game
-
+https://user-images.githubusercontent.com/122152312/272165101-94af485c-fcde-4d6b-a69b-ef8ae878df08.png
+https://user-images.githubusercontent.com/122152312/272165271-d43361d0-0d41-4a07-8496-b2286b878f19.png
 ## Overview
 
 The Snake Water Gun game is a simple and fun text-based game that allows players to compete against the computer by choosing one of three options: Snake, Water, or Gun. The game is often played by two players, where each player simultaneously selects one of the three options. The winner is determined based on the rules:
